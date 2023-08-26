@@ -1,0 +1,20 @@
+# Node.js / Express.js specific
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# SQLite database
+db/quiz.db
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Dependencies (if using Yarn)
+yarn.lock
+
+# Dependencies (if using npm)
+package-lock.json
